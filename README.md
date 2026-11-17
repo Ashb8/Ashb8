@@ -18,10 +18,7 @@ Sydney, Australia · Open to roles nationwide
 
 ## The short version
 
-I like taking messy source data and turning it into something a human can trust:
-warehouses, models, dashboards, and clear stories.
-
-Right now I’m building a portfolio that shows both sides of the craft —
+I turn messy source data into warehouses, models, and stories people can trust —
 **engineering** (SQL / ETL / medallion) and **storytelling** (Tableau + interactive web).
 
 ---
@@ -37,7 +34,7 @@ Right now I’m building a portfolio that shows both sides of the craft —
 
 Interactive web companion + Tableau Public analysis of the 2023–24 rebound.
 
-- National trend → states → LGAs
+- National → states → LGAs
 - Metro vs regional filters
 - Live app + embedded workbook
 
@@ -83,20 +80,11 @@ End-to-end warehouse from CRM + ERP CSVs into a star schema.
 
 ---
 
-## GitHub pulse
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashb8&show_icons=true&theme=transparent&hide_border=true&title_color=12352C&icon_color=1FA6A0&text_color=4A635A&ring_color=1FA6A0" alt="Ashb8 GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashb8&layout=compact&theme=transparent&hide_border=true&title_color=12352C&text_color=4A635A" alt="Top languages" />
-</div>
-
----
-
 ## Currently exploring
 
 - Cleaner medallion pipelines and dimensional models
-- Analytics storytelling that hiring managers can click through in 60 seconds
-- Teams in Sydney (or remote AU) that care about data quality + clear narrative
+- Analytics storytelling hiring managers can click through in 60 seconds
+- Sydney / remote AU teams that care about data quality and clear narrative
 
 ---
 
@@ -106,6 +94,6 @@ End-to-end warehouse from CRM + ERP CSVs into a star schema.
 
 [LinkedIn](https://www.linkedin.com/in/ashutosh-bhosalee/) · [AusPop](https://auspop.apps.grok.bot) · [Email](mailto:ashutoshbhosale1999@gmail.com)
 
-<sub>Profile home powered by <code>Ashb8/Ashb8</code> · Pin AusPop + Data-Warehouse-SQL-Project for the best first look</sub>
+<sub>Profile home · Pin AusPop + Data-Warehouse-SQL-Project for the best first look</sub>
 
 </div>
