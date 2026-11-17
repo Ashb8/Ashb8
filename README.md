@@ -18,7 +18,10 @@ Sydney, Australia · Open to roles nationwide
 
 ## The short version
 
-I turn messy source data into warehouses, models, and stories people can trust —
+I like taking messy source data and turning it into something a human can trust:
+warehouses, models, dashboards, and clear stories.
+
+Right now I’m building a portfolio that shows both sides of the craft —
 **engineering** (SQL / ETL / medallion) and **storytelling** (Tableau + interactive web).
 
 ---
@@ -34,7 +37,7 @@ I turn messy source data into warehouses, models, and stories people can trust �
 
 Interactive web companion + Tableau Public analysis of the 2023–24 rebound.
 
-- National → states → LGAs
+- National trend → states → LGAs
 - Metro vs regional filters
 - Live app + embedded workbook
 
@@ -67,15 +70,33 @@ End-to-end warehouse from CRM + ERP CSVs into a star schema.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-12352C?style=flat-square" />
-  <img src="https://img.shields.io/badge/T--SQL-1FA6A0?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-3D7A6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Medallion_DWH-0B241E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dimensional_Modelling-C4A35A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-12352C?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/T--SQL-1FA6A0?style=flat-square" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/ETL-3D7A6B?style=flat-square" alt="ETL" />
+  <img src="https://img.shields.io/badge/Medallion_DWH-0B241E?style=flat-square" alt="Medallion DWH" />
+  <img src="https://img.shields.io/badge/Dimensional_Modelling-C4A35A?style=flat-square" alt="Dimensional Modelling" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+---
+
+## GitHub pulse
+
+<p align="center">
+  <a href="https://github.com/Ashb8/auspop"><img src="https://img.shields.io/badge/auspop-TypeScript-1FA6A0?style=for-the-badge&logo=typescript&logoColor=white" alt="auspop" /></a>
+  <a href="https://github.com/Ashb8/Data-Warehouse-SQL-Project"><img src="https://img.shields.io/badge/SQL_Warehouse-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Warehouse" /></a>
+  <a href="https://auspop.apps.grok.bot"><img src="https://img.shields.io/badge/Live_demo-AusPop-12352C?style=for-the-badge" alt="Live demo" /></a>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1FA6A0/Ashb8" width="100%" alt="Ashb8 contribution graph" />
+</p>
+
+<p align="center">
+  <sub>Pin <b>auspop</b> + <b>Data-Warehouse-SQL-Project</b> on your profile for the best first look</sub>
 </p>
 
 ---
@@ -83,8 +104,8 @@ End-to-end warehouse from CRM + ERP CSVs into a star schema.
 ## Currently exploring
 
 - Cleaner medallion pipelines and dimensional models
-- Analytics storytelling hiring managers can click through in 60 seconds
-- Sydney / remote AU teams that care about data quality and clear narrative
+- Analytics storytelling that hiring managers can click through in 60 seconds
+- Teams in Sydney (or remote AU) that care about data quality + clear narrative
 
 ---
 
@@ -94,6 +115,6 @@ End-to-end warehouse from CRM + ERP CSVs into a star schema.
 
 [LinkedIn](https://www.linkedin.com/in/ashutosh-bhosalee/) · [AusPop](https://auspop.apps.grok.bot) · [Email](mailto:ashutoshbhosale1999@gmail.com)
 
-<sub>Profile home · Pin AusPop + Data-Warehouse-SQL-Project for the best first look</sub>
+<sub>Profile home powered by <code>Ashb8/Ashb8</code></sub>
 
 </div>
