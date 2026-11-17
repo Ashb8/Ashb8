@@ -26,6 +26,49 @@ Right now I’m building a portfolio that shows both sides of the craft —
 
 ---
 
+## Charts & diagrams
+
+<p align="center">
+  <img src="assets/population-rebound.svg" alt="Australia population rebound chart" width="900" />
+</p>
+
+<p align="center">
+  <img src="assets/medallion-flow.svg" alt="Medallion Bronze Silver Gold diagram" width="900" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**AusPop · LGA growth (Metro)**  
+<a href="https://auspop.apps.grok.bot"><img src="assets/auspop-lga-metro.png" alt="AusPop metro LGA chart screenshot" width="100%" /></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**SQL Warehouse · architecture**  
+<a href="https://github.com/Ashb8/Data-Warehouse-SQL-Project"><img src="https://raw.githubusercontent.com/Ashb8/Data-Warehouse-SQL-Project/main/docs/arch.png" alt="Data warehouse architecture" width="100%" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**Star schema model**  
+<a href="https://github.com/Ashb8/Data-Warehouse-SQL-Project"><img src="https://raw.githubusercontent.com/Ashb8/Data-Warehouse-SQL-Project/main/docs/data_model.png" alt="Star schema data model" width="100%" /></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Data flow**  
+<a href="https://github.com/Ashb8/Data-Warehouse-SQL-Project"><img src="https://raw.githubusercontent.com/Ashb8/Data-Warehouse-SQL-Project/main/docs/data_flow.png" alt="Warehouse data flow" width="100%" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Featured builds
 
 <table>
@@ -93,10 +136,6 @@ End-to-end warehouse from CRM + ERP CSVs into a star schema.
 
 <p align="center">
   <img src="https://ghchart.rshah.org/1FA6A0/Ashb8" width="100%" alt="Ashb8 contribution graph" />
-</p>
-
-<p align="center">
-  <sub>Pin <b>auspop</b> + <b>Data-Warehouse-SQL-Project</b> on your profile for the best first look</sub>
 </p>
 
 ---

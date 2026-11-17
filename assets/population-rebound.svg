@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="360" viewBox="0 0 920 360" role="img" aria-label="Australia population rebound chart">
+  <defs>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1FA6A0" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#1FA6A0" stop-opacity="0.02"/>
+    </linearGradient>
+    <style>
+      .t{font-family:ui-sans-serif,system-ui,Segoe UI,sans-serif;fill:#12352C}
+      .m{font-family:ui-sans-serif,system-ui,Segoe UI,sans-serif;fill:#4A635A}
+      .g{stroke:#D7E5E1;stroke-width:1}
+    </style>
+  </defs>
+  <rect width="920" height="360" rx="18" fill="#F4FBF9"/>
+  <text class="t" x="36" y="42" font-size="22" font-weight="700">Australia population · national trend</text>
+  <text class="m" x="36" y="68" font-size="14">Sample ERP-style series · dip then 2023–24 rebound</text>
+  <g transform="translate(60,90)">
+    <line class="g" x1="0" y1="200" x2="820" y2="200"/>
+    <line class="g" x1="0" y1="150" x2="820" y2="150"/>
+    <line class="g" x1="0" y1="100" x2="820" y2="100"/>
+    <line class="g" x1="0" y1="50" x2="820" y2="50"/>
+    <path d="M0,120 L102,110 L205,95 L308,88 L411,130 L514,145 L617,100 L720,55 L820,30 L820,200 L0,200 Z" fill="url(#area)"/>
+    <path d="M0,120 L102,110 L205,95 L308,88 L411,130 L514,145 L617,100 L720,55 L820,30" fill="none" stroke="#1FA6A0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="411" cy="130" r="6" fill="#C4A35A"/>
+    <circle cx="820" cy="30" r="7" fill="#12352C"/>
+    <text class="m" x="390" y="155" font-size="12">COVID dip</text>
+    <text class="t" x="730" y="22" font-size="12" font-weight="600">2023–24</text>
+    <text class="m" x="0" y="228" font-size="12">2016</text>
+    <text class="m" x="390" y="228" font-size="12">2020</text>
+    <text class="m" x="790" y="228" font-size="12">2024</text>
+  </g>
+</svg>
